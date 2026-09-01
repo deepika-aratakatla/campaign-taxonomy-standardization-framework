@@ -1,0 +1,14 @@
+CREATE OR REPLACE TABLE sample_data.campaign_master AS
+
+SELECT
+'FB_SOC_Philips_NAM_US_CV_USD_820804315294108' AS campaign_name
+
+UNION ALL
+
+SELECT
+'GOOG_SEA_Philips_EMEA_UK_TR_GBP_920804315294109'
+
+UNION ALL
+
+SELECT
+'Facebook_Philips_US';
