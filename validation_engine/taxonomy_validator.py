@@ -1,0 +1,1 @@
+print("Campaign Taxonomy Validator")
