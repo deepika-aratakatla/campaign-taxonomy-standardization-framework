@@ -1,2 +1,5 @@
-campaign_name
-FB_SOC_Philips_NAM_US_CV_USD_12345
+campaign_name,platform,region,market,objective,currency,campaign_id
+FB_SOC_Philips_NAM_US_CV_USD_820804315294108,Meta,NAM,US,Conversion,USD,820804315294108
+GOOG_SEA_Philips_EMEA_UK_TR_GBP_920804315294109,Google,EMEA,UK,Traffic,GBP,920804315294109
+DV360_DSP_Philips_APAC_IN_AW_INR_720804315294110,DV360,APAC,IN,Awareness,INR,720804315294110
+
